@@ -103,10 +103,10 @@ function coverflowimages(options){
 coverflowimages({
 	coverid: 'coverflow1',
 	images: [
-						['1.jpg', '', 'Angelina Jolie, is an American actress and filmmaker, and an Academy Award winner'],
-						['2.jpg', 'milla.jpg', 'Milla Jovovich was born in Ukraine and immigrated with her parents to the United States when she\'s five.'],
-						['3', 'josie.jpg'],
-						['4.jpg', 'hayden.jpg', 'Hayden Panettiere is a native of New York, and first appeared in a commercial at the age of 11 months.'],
-						['5.jpg', 'ashley.jpg', 'Ashley was born in Granada Hills, California. She is the daughter of Naomi Judd, a country music singer and motivational speaker'] // <-- no comma after last image
+						['kia13.jpg','project owner'],
+						['2.jpg', '2.jpg', 'dodge challenger.'],
+						['3', '3.jpg','lambourghini twin turbo.'],
+						['4.jpg', '4.jpg', 'dodge hellcat.'],
+						['5.jpg', '5.jpg', 'Cardilac suv vehicle black in colour'] // <-- no comma after last image
 					] // <-- no comma after last option
 })
