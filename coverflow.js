@@ -1,4 +1,3 @@
-
 document.getElementsByTagName('html')[0].className += ' ' +
 	("ActiveXObject" in window? 'ie' : 'no-ie')
 
@@ -65,8 +64,7 @@ function coverflowimages(options){
 		easing: 'swing',
 		dragHandle: 1,
 		dynamicHandle: 1,
-		clickBar: 1,
-		// Navigation buttons
+		clickBar: 1,		// Navigation buttons
 		pagesBar: $wrap.find('.pages'),
 		activatePageOn: 'click'
 	})
@@ -103,10 +101,12 @@ function coverflowimages(options){
 coverflowimages({
 	coverid: 'coverflow1',
 	images: [
-						['kia13.jpg','project owner'],
-						['2.jpg', '2.jpg', 'dodge challenger.'],
-						['3', '3.jpg','lambourghini twin turbo.'],
-						['4.jpg', '4.jpg', 'dodge hellcat.'],
-						['5.jpg', '5.jpg', 'Cardilac suv vehicle black in colour'] // <-- no comma after last image
+						['kia13.jpg', 'kiai', ''],
+						['1.jpg', 'Dodge challenger', ''],
+						['2.jpg', 'lambourghini', ''],
+						['3.jpg', 'fordmustang', ''],
+						['4.jpg', 'dodge helllcat', ''],
+						['5.jpg', 'cardilac suv black in colour', ''],
+						['6.jpg', 'vintage cardilac', ''] // <-- no comma after last image
 					] // <-- no comma after last option
 })
