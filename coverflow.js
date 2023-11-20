@@ -101,12 +101,12 @@ function coverflowimages(options){
 coverflowimages({
 	coverid: 'coverflow1',
 	images: [
-						['kia13.jpg', 'kiai', ''],
-						['1.jpg', 'Dodge challenger', ''],
-						['2.jpg', 'lambourghini', ''],
-						['3.jpg', 'fordmustang', ''],
-						['4.jpg', 'dodge helllcat', ''],
-						['5.jpg', 'cardilac suv black in colour', ''],
-						['6.jpg', 'vintage cardilac', ''] // <-- no comma after last image
+						['kia13.jpg', '', ''],
+						['1.jpg', '', 'Equus Bass 770'],
+						['2.jpg', '', 'Chevrolet C6 Corvette'],
+						['3.jpg', '', 'Chevrolet Chevelle'],
+						['4.jpg', '', 'Chevrolet Comaro ZL1'],
+						['5.jpg', '', '2023 Cadillac Escalade'],
+						['6.jpg', '', 'Alpman Killer'] // <-- no comma after last image
 					] // <-- no comma after last option
 })
