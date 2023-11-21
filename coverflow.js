@@ -102,11 +102,11 @@ coverflowimages({
 	coverid: 'coverflow1',
 	images: [
 						['kia13.jpg', 'kia13 small.jpg', 'Seriousness is key'],
-						['1.jpg', '1 small.jpg', 'Equus Bass 770'],
-						['2.jpg', '2 small.jpg', 'Chevrolet C6 Corvette'],
-						['3.jpg', '3 small.jpg', 'Chevrolet Chevelle'],
-						['4.jpg', '4 small.jpg', 'Chevrolet Comaro ZL1'],
-						['5.jpg', '5 small.jpg', '2023 Cadillac Escalade'],
-						['6.jpg', '6 small.jpg', 'Alpman Killer'] // <-- no comma after last image
+						['1.jpg', '1 - Copy.jpg', 'Equus Bass 770'],
+						['2.jpg', '2 - Copy.jpg', 'Chevrolet C6 Corvette'],
+						['3.jpg', '3 - Copy.jpg', 'Chevrolet Chevelle'],
+						['4.jpg', '4 - Copy.jpg', 'Chevrolet Comaro ZL1'],
+						['5.jpg', '5 - Copy.jpg', '2023 Cadillac Escalade'],
+						['6.jpg', '6 - Copy.jpg', 'Alpman Killer'] // <-- no comma after last image
 					] // <-- no comma after last option
 })
